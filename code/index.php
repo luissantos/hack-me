@@ -1,3 +1,11 @@
+<?php
+/**
+ * This file is part of "hack me, a simple vulnerable application"
+ *
+ * WARNING!! this application has security issues, don't install
+ * this on a public server!
+ */
+?>
 <html><body>
 <?php
 require_once('include.php');

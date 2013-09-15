@@ -1,4 +1,13 @@
-<?php session_start(); ?>
+<?php
+/**
+ * This file is part of "hack me, a simple vulnerable application"
+ *
+ * WARNING!! this application has security issues, don't install
+ * this on a public server!
+ */
+
+session_start();
+?>
 <html><body>
 <?php
 include('include.php');
